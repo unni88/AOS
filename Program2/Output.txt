@@ -1,0 +1,185 @@
+
+initializing the client...
+Enter the Peer Id of the currently running Client from the Config File (Refer the Config File.)
+initializing the client...
+Enter the Peer Id of the currently running Client from the Config File (Refer the Config File.)
+1
+Server Running ..
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Server Running ..
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+US
+Enter the Value
+Washington
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+UK
+Enter the Value
+London
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+Germany
+Enter the Value
+Berlin
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+1
+Enter the Value
+One
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+2
+Enter the Value
+Two
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+2
+Enter the Key
+Japan
+Enter the Value
+Tokyo
+HASHING VALUE:2
+true
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+US
+REQUESTING:US
+VALUE:Washington
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+UK
+REQUESTING:UK
+VALUE:London
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+1
+REQUESTING:1
+VALUE:One
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+2
+REQUESTING:2
+VALUE:Two
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+3
+Enter the Key
+US
+Successfully Deleted
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+US
+REQUESTING:US
+DATA KEY/VALUE PAIR NOT FOUND
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+3
+Enter the Key
+1
+Successfully Deleted
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
+1
+Enter the Key
+1
+REQUESTING:1
+DATA KEY/VALUE PAIR NOT FOUND
+-------------------------MENU------ENTER CHOICE-------------------------------
+1 Get Entry
+2 Put Entry
+3 Delete Entry
+4 Run Performance Evaluation Tests
+------------------------------------------------------------------
