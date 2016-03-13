@@ -1,7 +1,0 @@
-1 . Source Code  -- with Comments inside /ClientProgramUnnikrishnan/src/  and /ServerProgramUnnikrishnan/src/
-2. Make File/Ant  : /ServerProgramUnnikrishnan/build.xml and /ClientProgramUnnikrishnan/build.xml
-3.Manual  - Manual.docx
-4.Output File - OutputFile.txt
-5.Design Doc - DesignDocument.docx
-6.Performance Evaluation - Performance Evaluation.docx
-7.Extra credit - Binary Support is present.
